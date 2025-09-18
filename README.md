@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on deploying AI models for resume grading, refining cinematic painting workflows, and optimizing front-end systems with React and TypeScript.<br>👯 I’m looking to collaborate on creative tech projects, game asset pipelines, and anything that blends design with deep logic.<br>🤝 I’m looking for help with CUDA troubleshooting, model quantization, and scalable deployment strategies.<br>🌱 I’m currently learning advanced graphics, shader logic, and modular system design for emotional storytelling and technical art.<br>💬 Ask me about front-end development, React Native, stylized character design, or how to turn emotional loops into creative motifs.<br>⚡ Fun fact: I map choreography like code—chunking movement into modular systems to learn K-pop dances faster.<br>
+🔭 I’m currently working on deploying AI models for resume grading, refining cinematic painting workflows, and optimizing front-end systems with React and TypeScript.<br>👯 I’m looking to collaborate on creative tech projects, game asset pipelines, and anything that blends design with deep logic.<br>🌱 I’m currently learning advanced graphics, shader logic, and modular system design for emotional storytelling and technical art.<br>💬 Ask me about front-end development, React Native, stylized character design, or how to turn emotional loops into creative motifs.<br>
 
 
 # 💻 Tech Stack:
